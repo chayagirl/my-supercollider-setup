@@ -2,7 +2,7 @@
 My supercollider setup, GUIs, and patterns I use for my music!
 
 ## Things to know:
-Run the code in `mixingstaging.scd` to initialize the channels and everything.
+Run the code in `mixingstaging.scd` to initialize the channels and everything. Then set the tempo in `bigone.scd`
 
 I assign my buffers like this:
 ```
